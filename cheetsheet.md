@@ -21,5 +21,12 @@ $ git status
 $ git commit -m"I made some changes"
 ```
 
+### Share my work with the world
 
+First, creat a github repo
+
+```shell
+$ git remote add origin git@github.com:<github_user_name>/<name_of_repo_on_github>.git
+$ git push -u origin master
+```
 
