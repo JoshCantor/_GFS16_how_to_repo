@@ -46,6 +46,8 @@ $ git commit -m "Thorough explanation of what I changed"
 $ git push origin <branch>
 ```
 
-Finish what you started woring on, then push up any additional commits
+Finish what you started woring on, then push up any additional commits.
+
+File a pull request with the commits you want to share. Make sure it has a good explanation.
 
 
