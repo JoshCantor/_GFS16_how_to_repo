@@ -30,3 +30,22 @@ $ git remote add origin git@github.com:<github_user_name>/<name_of_repo_on_githu
 $ git push -u origin master
 ```
 
+### Help someone else with their code
+
+First, find the code on github that I want to contribute to.
+
+```shell
+$ *navigate to directory I want the repo in
+$ git clone git@github.com:<my_user_name>/<name_of_repo_on_github>.git
+```
+Then, make some changes you think are importants
+
+```shell
+$ git add <my_updated_file>
+$ git commit -m "Thorough explanation of what I changed"
+$ git push origin <branch>
+```
+
+Finish what you started woring on, then push up any additional commits
+
+
